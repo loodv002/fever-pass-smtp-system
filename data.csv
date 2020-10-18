@@ -1,0 +1,9 @@
+checkTime,9 50,14 0
+mail_host,smtp.gmail.com,
+mail_user,sender1,sender2
+mail_pass,password1,password2
+sender,sender1,sender2
+Fpusername,tester,
+FPpassword,1234,
+sendingCheck,FALSE,
+directProcess,FALSE,
